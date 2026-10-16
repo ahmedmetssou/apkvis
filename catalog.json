@@ -78,12 +78,17 @@
     ]
   },
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "bannerEnabled": true,
     "interstitialEnabled": true,
-    "appOpenEnabled": false,
+    "appOpenEnabled": true,
     "interstitialEvery": 4,
-    "minInterstitialSeconds": 90
+    "minInterstitialSeconds": 90,
+    "ADMOB_APP_ID": "ca-app-pub-3940256099942544~3347511713",
+    "LEVELPLAY_APP_KEY": "25b63cf85",
+    "LEVELPLAY_BANNER_ID": "4fpetq4lhe5lsw3e",
+    "LEVELPLAY_INTERSTITIAL_ID": "h3xw38h9214adgxo",
+    "ADMOB_APP_OPEN_ID": "ca-app-pub-3940256099942544/9257395921"
   },
   "categories": [
     {
