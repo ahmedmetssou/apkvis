@@ -1,0 +1,15 @@
+{
+  "routing": {
+    "countriesForData1": ["us", "in"],
+    "data1Url": "https://raw.githubusercontent.com/ahmedmetssou/apkvis/refs/heads/main/catalogmod.json",
+    "defaultUrl": "https://raw.githubusercontent.com/ahmedmetssou/apkvis/refs/heads/main/catalog.json"
+  },
+  "update": {
+    "enabled": false,
+    "minVersionCode": 8,
+    "latestVersionCode": 8,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.novaapk.catalog",
+    "title": "Update required",
+    "message": "Please install the latest version to continue."
+  }
+}
