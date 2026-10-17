@@ -2,7 +2,7 @@
   "routing": {
     "countriesForData1": ["us", "in"],
     "data1Url": "https://raw.githubusercontent.com/ahmedmetssou/apkvis/refs/heads/main/catalog.json",
-    "defaultUrl": "https://raw.githubusercontent.com/ahmedmetssou/apkvis/refs/heads/main/catalog.json"
+    "defaultUrl": "https://raw.githubusercontent.com/ahmedmetssou/apkvis/refs/heads/main/catalogmod.json"
   },
   "update": {
     "enabled": false,
