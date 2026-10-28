@@ -92,7 +92,7 @@
     ]
   },
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "bannerEnabled": true,
     "interstitialEnabled": true,
     "appOpenEnabled": true,
