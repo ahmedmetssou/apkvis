@@ -98,10 +98,10 @@
     "appOpenEnabled": true,
     "interstitialEvery": 1,
     "minInterstitialSeconds": 90,
-    "ADMOB_APP_ID": "ca-app-pub-3940256099942544~3347511713",
-    "ADMOB_APP_OPEN_ID": "ca-app-pub-3940256099942544/9257395921",
-    "ADMOB_BANNER_ID": "ca-app-pub-3940256099942544/9214589741",
-    "ADMOB_INTERSTITIAL_ID": "ca-app-pub-3940256099942544/1033173712"
+    "ADMOB_APP_ID": "ca-app-pub-8516185011430226~7597765825",
+    "ADMOB_APP_OPEN_ID": "ca-app-pub-8516185011430226/3131952339",
+    "ADMOB_BANNER_ID": "ca-app-pub-8516185011430226/5869796313",
+    "ADMOB_INTERSTITIAL_ID": "ca-app-pub-8516185011430226/5758115677"
   },
   "categories": [
     {
